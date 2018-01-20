@@ -1,0 +1,3007 @@
+---------------------------------------------------------------
+[ 2017-06-14T00:29:54+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019721s][吞吐率：50.71req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T00:58:59+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019721s][吞吐率：50.71req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T01:32:22+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.020351s][吞吐率：49.14req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T02:05:57+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.023954s][吞吐率：41.75req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T02:39:25+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019910s][吞吐率：50.23req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T03:02:49+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.3366.com/ [运行时间：0.019671s][吞吐率：50.84req/s] [内存消耗：1,785.04kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.3366.com/',
+  'host' => 'www.3366.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T03:03:03+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] mail.sohu.com/ [运行时间：0.019635s][吞吐率：50.93req/s] [内存消耗：1,785.09kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://mail.sohu.com/',
+  'host' => 'mail.sohu.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T03:12:55+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019753s][吞吐率：50.63req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T03:27:56+08:00 ] 172.18.100.56 139.162.108.53 GET /
+[ info ] 120.77.210.196/ [运行时间：0.019711s][吞吐率：50.73req/s] [内存消耗：1,784.55kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.77.210.196',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T03:46:20+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019944s][吞吐率：50.14req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T04:19:48+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019980s][吞吐率：50.05req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T04:53:32+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.020983s][吞吐率：47.66req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T05:26:53+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019680s][吞吐率：50.81req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T05:31:52+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.dg163.cn/ [运行时间：0.021622s][吞吐率：46.25req/s] [内存消耗：1,785.04kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.dg163.cn/',
+  'host' => 'www.dg163.cn',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T05:53:11+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.ganji.com/ [运行时间：0.020529s][吞吐率：48.71req/s] [内存消耗：1,785.09kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.ganji.com/',
+  'host' => 'www.ganji.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T05:53:16+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.buick.com.cn/ [运行时间：0.019700s][吞吐率：50.76req/s] [内存消耗：1,785.14kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.buick.com.cn/',
+  'host' => 'www.buick.com.cn',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T05:57:54+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.024915s][吞吐率：40.14req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T06:04:08+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.zol.com.cn/ [运行时间：0.019777s][吞吐率：50.56req/s] [内存消耗：1,785.02kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.zol.com.cn/',
+  'host' => 'www.zol.com.cn',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T06:20:37+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.21cn.com/ [运行时间：0.020396s][吞吐率：49.03req/s] [内存消耗：1,785.04kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.21cn.com/',
+  'host' => 'www.21cn.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T06:25:04+08:00 ] 172.18.100.56 60.191.38.77 GET /
+[ info ] 120.77.210.196/ [运行时间：0.032657s][吞吐率：30.62req/s] [内存消耗：1,785.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.77.210.196',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'deflate',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T06:31:19+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019763s][吞吐率：50.60req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T07:04:43+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.020363s][吞吐率：49.11req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T07:38:02+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019873s][吞吐率：50.32req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T07:47:29+08:00 ] 172.18.100.56 101.200.78.64 GET /
+[ info ] 120.10.160.174:80/ [运行时间：0.019942s][吞吐率：50.15req/s] [内存消耗：1,783.69kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.10.160.174:80',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T08:08:21+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.020504s][吞吐率：48.77req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T08:31:53+08:00 ] 172.18.100.56 140.205.201.34 GET /
+[ info ] bigswitch314.cn/ [运行时间：0.021329s][吞吐率：46.88req/s] [内存消耗：1,785.15kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.950384.p)',
+  'host' => 'bigswitch314.cn',
+  'referer' => 'http://bigswitch314.cn/',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip,deflate',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T08:39:31+08:00 ] 172.18.100.56 42.156.251.185 GET /
+[ info ] 120.77.210.196/ [运行时间：0.019891s][吞吐率：50.27req/s] [内存消耗：1,785.46kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'spiderman',
+  'accept-language' => 'en-us,en-gb,en;q=0.7,*;q=0.3',
+  'accept-charset' => 'utf-8,ISO-8859-1;q=0.7,*;q=0.7',
+  'accept' => 'text/html,application/xml;q=0.9,application/xhtml+xml,text/xml;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5',
+  'accept-encoding' => 'x-gzip, gzip, deflate',
+  'host' => '120.77.210.196',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T08:39:51+08:00 ] 172.18.100.56 42.156.251.185 GET /
+[ info ] 120.77.210.196/ [运行时间：0.021105s][吞吐率：47.38req/s] [内存消耗：1,785.46kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'spiderman',
+  'accept-language' => 'en-us,en-gb,en;q=0.7,*;q=0.3',
+  'accept-charset' => 'utf-8,ISO-8859-1;q=0.7,*;q=0.7',
+  'accept' => 'text/html,application/xml;q=0.9,application/xhtml+xml,text/xml;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5',
+  'accept-encoding' => 'x-gzip, gzip, deflate',
+  'host' => '120.77.210.196',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T08:41:52+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.021004s][吞吐率：47.61req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T08:53:02+08:00 ] 172.18.100.56 179.223.6.95 GET /
+[ info ] 120.77.210.196/ [运行时间：0.020675s][吞吐率：48.37req/s] [内存消耗：1,784.08kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => '120.77.210.196',
+  'user-agent' => 'Wget(linux)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T08:55:09+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.baofeng.com/ [运行时间：0.020340s][吞吐率：49.16req/s] [内存消耗：1,785.02kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.baofeng.com/',
+  'host' => 'www.baofeng.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:15:22+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019673s][吞吐率：50.83req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:48:58+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.020859s][吞吐率：47.94req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:53:57+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.021068s][吞吐率：47.47req/s] [内存消耗：1,784.80kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'host' => '120.77.210.196:80',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.wordpress-restapi-editpost)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:54:57+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020004s][吞吐率：49.99req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:55:14+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.032869s][吞吐率：30.42req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:55:17+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.021180s][吞吐率：47.21req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:55:23+08:00 ] 172.18.100.56 140.205.225.187 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019856s][吞吐率：50.36req/s] [内存消耗：1,784.68kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'content-length' => '431',
+  'host' => '120.77.210.196',
+  'content-type' => 'multipart/form-data; boundary=-333053153',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586.struts-s2-046)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:55:36+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.019982s][吞吐率：50.04req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:55:49+08:00 ] 172.18.100.56 140.205.225.187 GET /index.php
+[ info ] 120.77.210.196:80/index.php [运行时间：0.019704s][吞吐率：50.75req/s] [内存消耗：1,784.89kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:56:39+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196/ [运行时间：0.020677s][吞吐率：48.36req/s] [内存消耗：1,785.76kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.77.210.196',
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'content-type' => '${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a2).(#a4=\'ttpS\\u0065rvletR\\u0065sponse\').(#a6=\'com.op\\u0065nsympho\').(#a5=\'ny.x\\u0077ork2.disp\\u0061tcher.H\').(#a7=#a6+#a5+#a4).(#a8=\'un\').(#a9=\'_\\u0061liy\').(#a10=#a9+#a8).(#x1=#cont\\u0065xt[#a7].getWr\\u0069ter()).(#x1.pr\\u0069nt(#a3+#a10)).(#x1.cl\\u006fse())}%0d%0a%20multipart/form-data',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:56:48+08:00 ] 172.18.100.56 140.205.225.187 POST /
+[ info ] 120.77.210.196/ [运行时间：0.021306s][吞吐率：46.94req/s] [内存消耗：1,785.90kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.77.210.196',
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'content-type' => '${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a2).(#a4=\'ttpS\\u0065rvletR\\u0065sponse\').(#a6=\'com.op\\u0065nsympho\').(#a5=\'ny.x\\u0077ork2.disp\\u0061tcher.H\').(#a7=#a6+#a5+#a4).(#a8=\'un\').(#a9=\'_\\u0061liy\').(#a10=#a9+#a8).(#x1=#cont\\u0065xt[#a7].getWr\\u0069ter()).(#x1.pr\\u0069nt(#a3+#a10)).(#x1.cl\\u006fse())}%0d%0a%20multipart/form-data',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-length' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:57:38+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020881s][吞吐率：47.89req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:57:46+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020275s][吞吐率：49.32req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T09:57:47+08:00 ] 172.18.100.56 140.205.225.187 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020046s][吞吐率：49.89req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.6630586)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T10:12:26+08:00 ] 172.18.100.56 209.126.136.4 GET /
+[ info ] 120.77.210.196/ [运行时间：0.021164s][吞吐率：47.25req/s] [内存消耗：1,784.57kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.77.210.196',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+  'accept-encoding' => 'gzip',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T10:22:29+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.020427s][吞吐率：48.95req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T10:47:51+08:00 ] 172.18.100.56 139.162.124.167 GET /
+[ info ] 120.77.210.196/ [运行时间：0.019815s][吞吐率：50.47req/s] [内存消耗：1,784.28kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.77.210.196',
+  'user-agent' => 'Mozilla/5.0',
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T10:56:16+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019921s][吞吐率：50.20req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T11:11:24+08:00 ] 172.18.100.56 115.52.15.246 HEAD /
+[ info ] bigswitch314.cn/ [运行时间：0.021824s][吞吐率：45.82req/s] [内存消耗：1,784.02kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'bigswitch314.cn',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Chrome/57',
+  'accept' => '*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T11:30:11+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.021064s][吞吐率：47.47req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T12:03:58+08:00 ] 172.18.100.56 58.212.230.179 GET /
+[ info ] www.baidu.com/ [运行时间：0.019946s][吞吐率：50.14req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T12:37:38+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.032830s][吞吐率：30.46req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T13:11:10+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019877s][吞吐率：50.31req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T13:44:53+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.020846s][吞吐率：47.97req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T14:03:31+08:00 ] 172.18.100.56 101.200.78.64 GET /
+[ info ] 120.10.237.17:80/ [运行时间：0.029251s][吞吐率：34.19req/s] [内存消耗：1,783.69kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.10.237.17:80',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T14:18:51+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019669s][吞吐率：50.84req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T14:52:34+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019856s][吞吐率：50.36req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T15:22:40+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020103s][吞吐率：49.74req/s] [内存消耗：1,784.80kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'host' => '120.77.210.196:80',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812.wordpress-restapi-editpost)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T15:23:16+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019563s][吞吐率：51.12req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T15:32:40+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.021190s][吞吐率：47.19req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T15:42:22+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020923s][吞吐率：47.79req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T15:42:25+08:00 ] 172.18.100.56 140.205.201.44 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020443s][吞吐率：48.92req/s] [内存消耗：1,784.68kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'content-length' => '431',
+  'host' => '120.77.210.196',
+  'content-type' => 'multipart/form-data; boundary=-333053153',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812.struts-s2-046)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T15:43:51+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020777s][吞吐率：48.13req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T15:57:03+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.031938s][吞吐率：31.31req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T15:58:22+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.019804s][吞吐率：50.49req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:04:16+08:00 ] 172.18.100.56 140.205.201.44 GET /index.php
+[ info ] 120.77.210.196:80/index.php [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,784.89kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:11:21+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196/ [运行时间：0.020447s][吞吐率：48.91req/s] [内存消耗：1,785.76kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.77.210.196',
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'content-type' => '${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a2).(#a4=\'ttpS\\u0065rvletR\\u0065sponse\').(#a6=\'com.op\\u0065nsympho\').(#a5=\'ny.x\\u0077ork2.disp\\u0061tcher.H\').(#a7=#a6+#a5+#a4).(#a8=\'un\').(#a9=\'_\\u0061liy\').(#a10=#a9+#a8).(#x1=#cont\\u0065xt[#a7].getWr\\u0069ter()).(#x1.pr\\u0069nt(#a3+#a10)).(#x1.cl\\u006fse())}%0d%0a%20multipart/form-data',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:18:47+08:00 ] 172.18.100.56 140.205.201.44 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019694s][吞吐率：50.78req/s] [内存消耗：1,785.90kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '120.77.210.196',
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'content-type' => '${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a2).(#a4=\'ttpS\\u0065rvletR\\u0065sponse\').(#a6=\'com.op\\u0065nsympho\').(#a5=\'ny.x\\u0077ork2.disp\\u0061tcher.H\').(#a7=#a6+#a5+#a4).(#a8=\'un\').(#a9=\'_\\u0061liy\').(#a10=#a9+#a8).(#x1=#cont\\u0065xt[#a7].getWr\\u0069ter()).(#x1.pr\\u0069nt(#a3+#a10)).(#x1.cl\\u006fse())}%0d%0a%20multipart/form-data',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-length' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:26:07+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.10yan.com/ [运行时间：0.020812s][吞吐率：48.05req/s] [内存消耗：1,785.09kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.10yan.com/',
+  'host' => 'www.10yan.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:26:08+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] bizhi.baidu.com/ [运行时间：0.020710s][吞吐率：48.29req/s] [内存消耗：1,785.02kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://bizhi.baidu.com/',
+  'host' => 'bizhi.baidu.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:26:10+08:00 ] 172.18.100.56 115.61.85.225 GET /
+[ info ] www.cnhubei.com/ [运行时间：0.019829s][吞吐率：50.43req/s] [内存消耗：1,785.02kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.cnhubei.com/',
+  'host' => 'www.cnhubei.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:29:22+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020198s][吞吐率：49.51req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:29:55+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020788s][吞吐率：48.10req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:29:58+08:00 ] 172.18.100.56 140.205.201.44 GET /
+[ info ] 120.77.210.196:80/ [运行时间：0.020541s][吞吐率：48.68req/s] [内存消耗：1,784.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://120.77.210.196/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;Alibaba.Security.Heimdall.5448812)',
+  'host' => '120.77.210.196:80',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T16:30:33+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019507s][吞吐率：51.26req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T17:04:08+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019868s][吞吐率：50.33req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T17:37:40+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.020187s][吞吐率：49.54req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T18:06:51+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.020306s][吞吐率：49.25req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T18:40:32+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.032738s][吞吐率：30.55req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T18:50:22+08:00 ] 172.18.100.56 222.85.33.68 GET /
+[ info ] www.kunming.cn/ [运行时间：0.020294s][吞吐率：49.28req/s] [内存消耗：1,785.02kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.kunming.cn/',
+  'host' => 'www.kunming.cn',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T19:14:08+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.032459s][吞吐率：30.81req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T19:44:37+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.021172s][吞吐率：47.23req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T20:18:23+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019722s][吞吐率：50.70req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T20:52:01+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019636s][吞吐率：50.93req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T21:25:30+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019590s][吞吐率：51.05req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T21:27:41+08:00 ] 172.18.100.56 103.242.202.196 HEAD /
+[ info ] bigswitch314.cn/ [运行时间：0.025784s][吞吐率：38.78req/s] [内存消耗：1,784.38kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'user-agent' => 'Java/1.7.0_91',
+  'host' => 'bigswitch314.cn',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'close',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T21:46:18+08:00 ] 172.18.100.56 115.61.84.26 GET /
+[ info ] www.zhiyin.cn/ [运行时间：0.020340s][吞吐率：49.16req/s] [内存消耗：1,785.09kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.zhiyin.cn/',
+  'host' => 'www.zhiyin.cn',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T21:59:04+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019532s][吞吐率：51.20req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T22:22:26+08:00 ] 172.18.100.56 115.61.84.26 GET /
+[ info ] www.wanmei.com/ [运行时间：0.019902s][吞吐率：50.25req/s] [内存消耗：1,785.02kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+  'accept' => 'text/html, */*',
+  'accept-language' => 'zh-cn; en-us',
+  'referer' => 'http://www.wanmei.com/',
+  'host' => 'www.wanmei.com',
+  'pragma' => 'no-cache',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T22:32:36+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.019563s][吞吐率：51.12req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:05:36+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.026348s][吞吐率：37.95req/s] [内存消耗：1,786.29kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '396',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'BljgmH0QVVU1ppfcMhpUT3JQ0SLkBDkMPhjHEhVOsfnQdqt7u0bKMY9D3hWLPXQdgTm9S0H8dU93RI9Mk2KvvvzCTxHkAgSTrOhpzyoV8ohte_2hnAOF_8R1SI1yGgHXzFpWZHezmxTkDjTixImTMaTEDCh1WnVMzbA9D9Md/0gbOL8HjxnLhICw7LTDx2Q5F7/2ie3FmYzeu5dPfSAUZmKrmBVxpiz_QXGRjKxv5fBVNZamMN7Y8tO/hqR0gEQ0PmWLZ2bJhE7i6iyzWUzz7rMBObt2ik_3jAYtS_P3h1lf/FlDevWOSEvlAgMMhuv6XcJlS_GpWdveVzOl1PrfWFO0JDYhAnHzn6iFucRcDcC6eDJu3rKvYmeM4RyCTJSivofenwRxng' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:05:46+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.032506s][吞吐率：30.76req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:07:37+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020330s][吞吐率：49.19req/s] [内存消耗：1,786.05kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '360',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'UVyymiATU1MUeLirbuEnOEI0sK26LK6js0AuHd7GeJqK80Gph4sGMfqA_h2KBQcTPyKAfdn2UhYZY5z3aEzPuI2s8rNTiginyxx56uGOQtvxLZB9QuH4niLlJ0I3xjHo3y85b3BphbnD6ZZKXdmjQlusCwrKIgevLfzzBlV3KMqeP5MVH_6_cGsQvK/2HJFeWPoZNQRrsypJKp/tstmfvVbtYejThkZveXuxq2X3tNgM3ahDvUJfH4/SnnBbyH_Pwkw/sziF92CjrqCFNK57y5JfV_pXu4raGNUTpXcl5/_GMN8J5xbF2Hq3rUA9IttzqN_O_MTxjvb/mRCrcQbJ8wZXNqm9MJXtRyIEMGc' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:09:38+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020195s][吞吐率：49.52req/s] [内存消耗：1,786.30kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '400',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'CVuyynZFBT1I_kbp_ctEO6HyIbuSIWXL/BqCM7mhhIcEbcS3d4jnu60xNPU_T0sNMJJbaNhXq/J47Vh8kzTXniRd9YmyIk92GyubW1bsLBTsJ3B2c33q3XXFwlMm00TgcqZf8H0mK1T_fHFBpeS19y6FSvvU8WxNMueR6KYL5C4S_6ixEf833DmxWo_ul93PEpsz56nnfHMn2ezYvzQTd1X6L09anzRJgAMYLVmVSzR1z43c6q3lFSYtK0Mwb_reAwbvEAgSJhbeGVHHDY60MldDQ4BW2Pv6KmU9XP5l31VvbaAwlv0ykQqGGb_cc_3PxEo3lLrr55XFOwzZHdjvm6zN8Mq6FtH0B64rN0xSPI2GhznhzRidvwLKmExQs9c4i_fBfy8RNoccShE' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:11:39+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.021506s][吞吐率：46.50req/s] [内存消耗：1,785.91kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '380',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'AAnjmHIVVnw30Eskw0DHf4QClz4wdeRcYqUFVl7/K8p9PnILAJbF_gtLMcaGZoME_nAraWjEGbj9SZ04YuYp2Crz2KZ8Pl0UFp1lrzBAz_bVf5lthwjomLejosIaqwAyzANLcHVKgrYFKpJUJxWfD/ddHIms_cyT17JlsuxNOVAXdaXemQUYQ0uxF0OyDuFHEeO7OM5v2BcjSICOViR95_igNlgmSfjhCFkVJc_Bo1E4fBnl7k/7oTydC8A8uZoYnpmcFStghLSnfaBVcfACrnoYfSEPb5HB8mwsTysJrPdCYdVaI/y21HOhpchr3uZ4ADAy4xS_L5Ih7RC9Da0pCn4II9KaA4_b5mVaXX8H4u4PXesuJ8LrMsBAFjQ' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:13:40+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019779s][吞吐率：50.56req/s] [内存消耗：1,785.94kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '384',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'AAnjniZEWcw8wjnr8QyuzeMfU9yS_boxpfo6VIh/AToeuqjrZq4z39/Zj4LtF4B5m/ZfUzCdIsJt9hLymtHhc5JBZ8kUd2_CrD55iL6KIEdjpOwy_iCEpFs8GF4r7X8XVJ3rmkBwF_G54av_BCecIuNH5NE6LW872h_mNm5rJ5xKSSEk0qEnhL31dyz8tSGVG1JHN/KBnnE4jn5_hYb7G3SBy/gO5YkQgEZX1c2juc1tXUmns2B6fZ_VLUKzzqzLt/h04uM0XW3eRSg0PL1U5H59gCEEXbr/wnsVs_7Y7O40IKdx2DItv6u6xkTW4CHIA2T60cbGWuAO/MpY/cdDa3vJ0OJ_98XMkl8Bnu2lkbI1AhkjeyYHtfd3AgF6pUn8' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:15:41+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019836s][吞吐率：50.41req/s] [内存消耗：1,786.42kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '436',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'AF2zynNABEOyjx2R7EzbsmZqEEDjuVJtfgUgNtnpI6BMAY66Y5Ia0WSSUADjg_FF3U0NUuRTpFX71xXfuhsNFoHOlUOhJ0HfWHWKJtGLdOaqlDH2BV/2Tl_4iUVgIVN1iTFBxjZSAGDaDkgLAfcUcXCQIvEX2S/JVwqOFdnPSXmPZCAiwfpq/Dt8AxzXhv2MIowgn/EnJRreb146rCo0mATloSkDh869W4q0t5TAIC5E_9rqCvMIWEPYEWw0xI9wZ7b4qSGvaIYcgczpRf6iGMd0cuw73zfUAMQPWOBzwcmNEuFzym4QKzHahMUFfSJGTlgO/MsyKNktqO9vm5UVf/qBndyiradTlTt0BW4XHTh2bVQjw7EcouRRPo3p0Yj5Z5z1cRg2Wkl/pzpxq/dve0Cmzs9Ant6XxyoZ28_L_fcd68iXdw' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:17:41+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020156s][吞吐率：49.61req/s] [内存消耗：1,785.84kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '364',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'Agq2n3JDV3sQR9xHwiq1pqNdRCEzJ8wWKnWOD8ffUskn5BBLhjeoi/fvcRZF390HiK5tdbwmdZ5ECJCw5fQ1DN_pswxBZ2HD0heR7YBmFVPk9A8Wajd26z8oy0ixQ3abm5bA8/AXQZPpFvk9isIHdvkR/_Nr04C74EV8MDXAYCmqCT96_yTIA0mKMtAieoBXyCwhhntO5Cy3FxU6Ck77zc_vcxmYe6e3q1iWXLL0ziIGXpHYRG3pVSQmWE2LWYQnSev68z4mTMMWaJu039IUERohFYHgGfFHwcJGKr3kstx7FnlnF3l0RjICocrdpM0luLAvOYb3bmpSIHMXAjUPx3OmL9sJ6aWSJ3JZ6AzEJQ' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:19:42+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020089s][吞吐率：49.78req/s] [内存消耗：1,786.34kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '360',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'CVq6z3wVUfr_nGItJ36XQg6h6OyA0wG51GxvhlJY9hSRUu86F6faD/i9WJdicFJ6QxA/oYru39EnrOeHQF6BvGORWKDBeUrzFDhdXydpmfAACK_CDm6VV/VMTy/LoJGRVr5WnumxepoMxLmKGMicaEJaQcHvQLLMQyH5RWsIPgGH6yvVEpcz36j2hXoysenXz_0XeKt7kM9uX9jD5iUT15OUYO4yOTUK4IkV_xRMvnUxDZroXmWQWMYq6iDCsCr7cYSpme3aCAEYp6WXutkgA/QEHBZFj5ugX0opZdOwxujRqa22LVxsnhxJtCSafB/3TY9gl3fTT4zzoa0d6bWqLJAf9UGBHHkoq5WZQg' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:21:43+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019615s][吞吐率：50.98req/s] [内存消耗：1,786.38kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '368',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'VQngnSEVBbeLmh95oZMYIxwroXCvjlKjQJAFC5NXF9EZkwZX3relhZEgzuCHHWY/cQ_jss0Vhtwb6gepH_yddXzW3VCtaIeh7xuOPphlxSrxTI05T8jqee9CuzLxMFkW33lG3Z11IObPUGvp9ck_tZnej8HZ6UxWq27EiJe9E8/PMhmnrUlTKsUywfmHgmuWIDg1_sQlqM6AdCj/1ZIHAu9SbptkDMcwmoOE6DINpPpUHizCZauP8XFG4Dw9J5B3X7kA3KJi8IeM/X/2UM5Tb3V4V5TPiQItVQ6k0_6pgxgdpr/KaAn0tTCCnEkTpeV8fM7joGF8XYJqLbI5E4xFmrGeUKlhvgGYC_UnSnF6S5Gc5zE' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:23:48+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019591s][吞吐率：51.04req/s] [内存消耗：1,786.52kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '432',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'Ul_6yScWB7/2QyepV23xQx7ZDOWiUdbzdK7nR27wZhzvg/mUyQihkoSm8r2RbCLZ9LJeCTK_HieqnJSEEuXyg/jNNMsMyGlVXe5VXIZ25HFleiFkmgx5LV28bEfmxNSGO1q7E6mrSP9MB2wYAwxtcEHlivWOmRYN6qtDdVuJTz47jdDFq9pj9dRrdH/j/l9dOE5VbTWBcyINFbhRd_2Vlkux1xtNEWSNDLzfkE4D4Zx2h7ErfU6Ycq8gigcAV/XogCtOaD_Dcvx1NqXRCiar/KzzfXiAXdU2vVQLQHmlxP7mlWNKaKIkSq0AKPLRshiw6xCrhtcoIlP9NVWheNvxz8vyXccBvGi1A/4KyCRogHUQxZ6hPTfGy2rB75Qumi0zxGLydXVEqLKMgN/bI8SS2VvF7r7eEjXfaMdFDMlFyBqe_g' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:25:49+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.032798s][吞吐率：30.49req/s] [内存消耗：1,785.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '396',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'BQ66zHxEVELSwxD786C9IzZYua4G0pYb0nUqhvVRMaa/xgB8rCy0RTgf5KHHXHiklhbZu5CVI5//JNj2iHmdLAyifTzojibIL6k877tfi7pog2/uzqLeLp6xRofMTpJQylNIztNsWep_nMM0z3DD0ZBjsuEdEWi7acwZon2Eysymb7Q893muk3iDR1gQBAJKesMnLRXswkXIhEiMVZgqvt6dYx6YxpC8ovGQaZct8U4FjY7mvoO65g6kotHjZVevIMuwHabOkhIxSKuz_IiC10_j61TsaItCX9OAlH6D3Zhkih8R8MFvuoo1qTX8/xymlDBvEs04u/KnFQCd8OryZJruNceiO6ZvC/KOJeSu7gYK1iKjS603iIU5A6BDFQrK3iJIeEqoxa2I' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:27:54+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020285s][吞吐率：49.30req/s] [内存消耗：1,786.20kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '384',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'AQqymHUfBFVoRhquhNrPSsD2zd3A1IP1N1EfG6rADaIf4DPnbo_0cAsidqT1KahJTIobYpKz7nrUezEMwCl9yLizFp7j1n9ZuUG/53FtA8Mkpl523T_6T0h2_jf1ONxgXinUINC77donj9PcwfU/CaI0lWZ/YsOXg2WrssBEbA806uwwojyV34twXVfONdXnFNn8TArP6YOxrkOvywGSq1vwLA9vzyeT0BlBziLw_E8BgV_Kr/Yffco0hAvG2PFrgTcPXBEmd3ACrIMbg0L95W99shePuuVHHKSlH1c6u0XNwMiV5QRnyb16lU7DfdNf9vDvCAia8a1SKfMKFkU9ht9zUDB_IwzZjUq0fu7hhd73aYWEC1SN9RLdTTJc7w' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:29:55+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019883s][吞吐率：50.29req/s] [内存消耗：1,785.88kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '396',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'VljgyyUfUxzz0tpjZRhs60rUJSBSG7OpxqGJnwl4RtlmxOpQj/uRoOA/zAGGSS6jkBxn_PJmg/3h658G4lIGS7pZZxfLbgMl30X4SQQhwmpzV4zFL/9woCGFPntnF0_fNDM/lLDA9hkReZ/YYH4SvH5Pj7xij03KBPktR3lMxJ4vCiONjVvA0kgwNXMgzEIxed3B5MHDZwxPtWIrR7sq55LHU4rw/LomwoVnNNDEcGxN6d60UYnb2qcjjsteqtMRIBRa2Gv7Sg8WD4qznTlwNnD3YUSDTsRGWGXQCyWNmtCFn9yiPBVeji3UzO83yQiF1tXZQGI6T4cS_KLsnyupOtjh5YvUHHoF6zEsemuudXHfUPTTSZ4ugbbeZNf/7/29m3qzWuqjOoop' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:31:56+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020575s][吞吐率：48.60req/s] [内存消耗：1,785.98kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '360',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'UVy0xXcWU7I__Hnkda14bOhjSGfh6alRDscvcHVAnN7c3Xs5ArsYuViPAoqWIPou9mkPOVF3V/wwV1Jc0aaWCisgs_TII/4lni6Nr1cI7USc9//KqmQ4JfAmuZlI/bGc8Exz7Gvg6ewQq6nHWBVtjAoOzmlNsg6HI1pbXOQV/njzvWL0oEanbfnk6aOpltNAvAAQdfJpaopv2iBHRsWgaJXQvAeG3pvkds5MyoXsL0QFCM_12XKtjk9dpyzWGl1wvVsXbELzxzc0RYrtYI/GJmzJSaCaLx1XDfukoR2Eupa2RbD1zFyToNduz2czx8K7wNYwuDdy5y1_MyPOAdFOnwzB3cY5AoPK_M4YnMk4' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:33:57+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.022045s][吞吐率：45.36req/s] [内存消耗：1,785.98kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '420',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'AFvmmXMRWOIxY0vYUnJs8RrzTak3qJhdtHHB9Gpgdmt5teQMfZNh5iSrNyb6yy8Irz0C0HOMKVpMipgsoPmb0Hp_OTN48V9QpAMEaxE8ZpbcI54tDnFFvlQzTPL6yk3mkBjajAv90J9fqzWsBV2AgMZ_BwfLCMaMH4fzOKDUfcPiCjyO6wk4YnaCIYcawF0W4OaaXQnTapzOlRCJibxICmKV422wAdx8CXujzC3h9DrVMcrWIT0k8bV_GB0Qm68ByWytXr2juRhBBmXE2dI1I0OWzSW464uQFUZczFBkWudJDEihPIk1Oye72/RduDQFf51Vwdinka4y0hRoAY5d/Z/0OdKTjdoQJKkXQpWG2daKwX1RxQNInxFdxmrLOkvdiIwEX8qq3cxcwHdXIc5Rkafd/YF_Z2I6boM' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:35:59+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019892s][吞吐率：50.27req/s] [内存消耗：1,786.07kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '392',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'Bwjmy3UXUUwzXl9P6HNCkW2E60Iasxniqog1d0lpCVh8XoBEeCh_aoFh1Y7EpfmSg0gZe_YpZI8CR4bzVSfdexHNV2KUCuYth_Jr8sX8ptvJemFT5Dh5YxjPTFQ6Us5bHra2yM_piLGwQMF6T3BGJkUnGDYpr7z5HF_y8q3HawqTqmXZj5osycjnoqFPuufhz0Zl_JRHL4jnWkUyb4jtHngsxHxKIVMnAm8l2d9FDWS1XYzHrwrXoMK9M23Rv/yNSjLjsGKusWrjJfQPWDXMj2AZEvXhhfXgMz8/5xqajQpKN0Zx5WN5Hqcy65ix0Ow1qwtSb4R80W_TBsagDWLXOdt4QEdIVQryPPjmM_RaHNGu0BnRoeQQbNSf7zZG_9St72sGCg' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:38:03+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019685s][吞吐率：50.80req/s] [内存消耗：1,786.21kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '412',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'AFngn3AXVHA3mqmHW2TTRvN2flEFVIi7KmSk9jzPO/CbNIM2ZvvIjGodKul7pGcgkgbvCOqaGZ_VYcLsGg7ByjDo4p1Y2CJYAP7v2/0UNYhzz7IU1LiKW_boRoy/3ym3oN4tjgbZtXHskuveQFt3kg97bBouP0igtaYdqd3PSrFxNjtE7c/OQbvKV7i9NQ_M3vbyDpTCPuQWCX6Amp0iU8ObmCGmRNWSwMaHeHaDJVMTmXl62qY1erFHF2SKiHgqLRU7C3ck0COU1qK/SmggSxP/tVqTMPWYXj9HoCecQ92TOk0RC1tlPzBrydhDxat6Z6EmydKD4RA/tqfOBgq6/kA/lKr41OTFgT_vTxTlELhI3Xc4iMkzNKDkYSxE14_ym9UfGO0fFmZztyRxWW5sO4SWtg' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:39:40+08:00 ] 172.18.100.56 114.221.203.39 GET /
+[ info ] www.baidu.com/ [运行时间：0.033199s][吞吐率：30.12req/s] [内存消耗：1,784.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.baidu.com',
+  'accept' => '*/*',
+  'proxy-connection' => 'Keep-Alive',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:40:22+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019765s][吞吐率：50.59req/s] [内存消耗：1,786.28kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '400',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'Ulq0zHIfAs7F7JXtKULLjJPmqtLdf9siTw8jeMogiMwamybqORLsZwPskX44f2ck/1XLkmwb6ZBQOl8AOqJmQYoWETQLhSs_RABj44LSsqclwE_AUu9vjUMKV01NuOAPjiDVjZQ9W57xrsZrv/4gGU4uZbsRtRI9ZX2wjX0xCaAIa9N7IfNrdx01Ev1UyGqIT7Jg79C0Hy9T/iw5uviStI8jrQqz/AqIV2iIm_aVUpCbZhmLIYC9B/_9A8iDc72DJV9Eq9lSIaQl3qoGUy2GfYCjOw7hpGZRzf_G3XDQgD2nku0bPkbgk5b5urh8RlZEBvuKGJz9kjD0O9YrAUDRGAdFTki1rk1zG31cjW13p6KqhV0u90FGPlOef1Bfbr1HguQtr8LD6BZA2NL0' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:42:23+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020963s][吞吐率：47.70req/s] [内存消耗：1,786.30kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '408',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'CQ66miJDBH1EYm4sFhEzd1NTiEoW_hIwIoVsvb/mf4ziaSJSfSnPmS5QUe7v9OiEd9OfAv6/duSCMCXbnh9TZ45CEIzIB/FKUR5Mw7gMtGDGbSETtuiKwkEWkIkOkgql/U2OGu5cXeiNVwYV/3pnoBp/eG5Yf/ED8JS8azB30X1QU2oEqaRz7yg91WULXo5CZP130B74Lhrk6afJ9TOEpSiy1rERRDo6KFU0hEkhWO3QN84aJnNXW3c2wG5K1ug5Ka72xwpl59QLTXZfqxt91WqBjQVG/8aqN2VHbCwcrEPAxEWUY67WgE/8P2EAYgNvxHt1lujlFT7hWAwi/ItwNzygp3jwyKzTemvDmMdCJzvltDviaDoLbPFw28AfL4Z1K70JuK1LqHg57QTAhqrVnD0' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:44:25+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019762s][吞吐率：50.60req/s] [内存消耗：1,786.00kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '380',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'VFKyzHZCA/HonJl9xvWJEUv4txUIDLqjwBxdzYhnNWAs17YAOM3obpJbsuEW3dQMdp/N1idKZsNTQPZNKLN6EOvAWmr6/rTFmp1/ao0b60FO8zIZeRMwxaQNWVFzQqxMRQLcYA4WbZAzdSwWe2KhYPxqJh8u2jr4EbLLxu_4iawTklmakTk6GMatFLqoea5aaAguvKA7mPeMgIdg9sPO8nLrrugjBPe7Rk0GBdFyYSlge_wZXzqsF/KGppmvSB4Ulw9BCMuMLBT1zdbS6as6RZeAP1wYaHA1Xw_eGrlSQbYdVS/sGGig3rVun9t0sjj/orcNgC6fyKJ6tyt1/fCMJHYmEECpqwlAbtTlh3G8VuGqcU1RgAUwCzDKAg' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:46:26+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019678s][吞吐率：50.82req/s] [内存消耗：1,785.97kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '424',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'Bw_wmiJDWQXMrFL3X_jtG4rhzqLETDSNtRbtefH2WDY7zjhnHqKtToOQlJv4boqAYLyR4oEOb7E18h2KQ0e5y/qs9n3cVSQZIBHltc3AWHvpM76qyCYJGXddyxJErXHLK4VhLNGLUdjlluUXFgSAO8dFBDyKXKu0/WFmpXt926wNz/8Q0tyCgdrK3KBO7uQDd5i8JPkaZ9KchBpUn2NmgdeirEpgyuyZB2fIZWcMsIY7M2odr2fmN3RLtAskeJNBnAeIVX6/iRbw_OYMGqbK2VT9WQyhoe7v2gB8iao5OtHg7BAOSQg6B5Chwrm/9Bpdvsr5USbFIB0lzVu7bY88gs_uv8QgXhSh4dD1kStOKluAdTRJ4TPtX9H9CABFeNfP8Sk4tR9seN05qOA4XjXe4E48sWocAqtWF2XpoL0' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:48:30+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019653s][吞吐率：50.88req/s] [内存消耗：1,786.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '388',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'VlPnzncUU37fxgReMVJQykSP_yvUSmKWydHa9KLrVQAVGkMGMsvxBOz/rQrJPJgcOqdF7/PVx5aw7R0U61jyDjKl41HVsdH1XvrWaLQCViDnMnMNZg5PCNnQ_XMMK8VflFrvMemobwdPlUjGu8J2KTKfmI8AeuOpKawM1zXksAu5/5JJQh_sHXXHMBKBrdQBXgXe7MJd/5306BWw_gp/LRo5M8l1b7zG94yYuTsiLitc0B1Jn/rHKprY1Msjr7YreiFZy1Zf4PoT0FWEurtRYFGKnVllbBPkPqGtzKg36i9lpoZYdK4etQE4dE1nnKmAP9xWwlOOA7T3MOouQzkQRj59qYg_M3ItI1neADnMMcKM4ivk3aJ7_pqaOrhpjxZa_OI' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:50:33+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019918s][吞吐率：50.21req/s] [内存消耗：1,786.29kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '424',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'BFu3n3AVAHdkeHTNgxKJARaySmXKuoArRUn3loEEDbe54yz81tW46wAeK2qJzcKrIteACh25Ur7pj4xYh8bTqn5zxtn1i6Vre51uExd6QyoMix5qfzTnmJQMfjxkBIipLqoGXReIjvd_71vtmDoz5urcT2ak7JyYjFnZmYKIlQAaBPXDXs2Mtpb4yD7oolhaIbfQv3hQv4bv4eUCiTfHxTsyNYAXvz6u3kFrmYCs8hXHSwOyO8X0py0V5/_8CDi/feMCV/5FFS_VFPsShMltbJlf_U4EJw2z2Z_b3zfjbNdUZMdK0wqgG/j3K7pGHcyftSCoGN_Xj4OOZwqXygYqe/0Ohr19kMUiqD9kCJZnDQDY828macNw1XER7V1z0H8G3btrZ0ULvsEqZ2_0KImvo8EMiaqweW2aXlRsOg' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:52:37+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019738s][吞吐率：50.66req/s] [内存消耗：1,785.87kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '372',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'VQ/my3IUBRhguNcjpFBsAK7M0lfW5nXz_7EVWCdY_up8eIQesqXejWOEyvBIjhW_R1P0XrZDD4VQAyYU2YC5/mNHtv/PfIkcQLJXtkwgRsxS1ONhjwl45lleOjG26D349Rp_TgdgjpoXMYGNiubyQOIydDGBngq/PM45Q6bywGd0da5LBABYUUkfkpcwRGnxSchmxJmym0BrdpjpzyPkR/b_uX0VuR2i2XyxSvMu8NtqGqpgsYLOGdyp18TCSgQRRgcg9Sw0c01Yfyl8f1N639UFE2qu_Y0EMeVqkkF5r2kaA_lTwTG5Kc7O0rx3Pbl37wswveLQWPAJVIltI6B1K/Z9cKhsyjajZDbMvcrQ5HvAp3pOkuFP' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:54:38+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.021128s][吞吐率：47.33req/s] [内存消耗：1,786.27kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '388',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'U1LgyCcUWbcnWVJw2fo2U48WsYMpF9EOmEL1cliQN0cDZhc3EVHIWgCCgLiVgmqFgn0reHoQJ8/Z/kxoHAnahgo6ax2yA3AqSl_wrlQE0h5fA6VwwYtc89sPlVMLFvB3H/PG77ZLBf5mad7L0ctGAvBdm9Qhw8nuYtAr04_uHSbjEQBFXjhaF5/6lgEzA86hxvBn5Sw0dPaWZr2kafeD_1ERhMJ4aZfE5uLpr_jG_l0Kyc1Ilvyedk2g5FhZHRyA2EELqpWbQUKMfwEUtT3p5kL13cvVGHnhZ3dfyt94vZuSA8I9DEOXsx/Ke/KK/sVuXiPJBEa8bOZW3UY_ZV54kf3hEsXOwt3YVKOtahD2Y9nrHVqVTqnFN5tAniKnhiFK_ps' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:56:39+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.020856s][吞吐率：47.95req/s] [内存消耗：1,786.31kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '408',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'Alvmz3MTB9wcZKSmUPnyu8BYMKd9pTUaBlI0taeQuMtVZ5fCftN8x0UxD0MhiJlaCvQeDvnGwzuH10Sx5rzYVNwNXpefxi4agugL1Ff9VYxP_c1MkYPHw3KC9hlwJXe30P2YiQM7o4LT1GUnvbx3JrPdmeBUN34YGrvea3dff_8z46W_g9n6MQYq43jLgjbTq9VIuv2_EL/6rwoanLhse6Qy8ruMRP0ZG6ApF8tvh3LGIgjksYsh6aMN3/S/r7EqP7_DfzPUkXYwDWHUTGxPFACCoshWw4E4FBCov80L13SPNusCMa0o2L8E7t_IxGRiaeldz9L/sZAm7zkAGWFdYxyPjWI9h3RIFe9K7C_RS1GRSSEUkDr/JxGNj62dqgBQ5THp6Z0DmUXFXh9w/lWqpw' => '=',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-14T23:58:43+08:00 ] 172.18.100.56 181.31.17.11 POST /
+[ info ] 120.77.210.196/ [运行时间：0.019721s][吞吐率：50.71req/s] [内存消耗：1,785.98kb] [文件加载：38]
+[ info ] [ LANG ] /home/wwwroot/default/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+  'host' => '120.77.210.196',
+  'content-length' => '420',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'Ugnkn3MVA0vz5GzB_yzA0w/tbx4wHq7fDT_Vbdn5DNakOuSj/rSdwjfIBcNsTo58ix8_if2fmGWMe9PCXBsBypRBkDT8QXKc_NpzEOq1x1zUJt1zU2CeacFMjKhqBmGaSE8TmvEXI2gRqc6JtozxlRGTYUn_XluYuXj1C1rRojeqtDmISFJl6v9Lhi9WXa2FLmaF5Ad_p2/K9CMdDY1g3xNLnmf6ooo/243i6PKVNKBFM9_1nuyNRR_/VPDGJeYpd8c/hGHBvRPNXFudE2qN/xPxUpm3dM62CHi57U481p21IavkRnXtWGoCxSpzZoBXo0BICFK8_vw3be__Sn1hQtDuKUR/o6mlCx7PUvxQT/9hcnrccWd2QzNofzE_bZln/j9sQPJY_v9UeostXKboAwQzfZzagcEZQiA' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /home/wwwroot/default/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
